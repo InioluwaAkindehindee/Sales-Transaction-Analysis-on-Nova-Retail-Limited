@@ -2,7 +2,7 @@
 <img width="584" height="287" alt="Screenshot 2025-08-20 134301" src="https://github.com/user-attachments/assets/7dd33d48-f5bf-4ea7-9838-b30cd7e6188e" />
 
 ## Sales-Transaction-Analysis-on-Nova-Retail-Limited
-The dataset contains 110 retail sales records across 11 fields, covering transactions by city, customer type, and product category. It is clean and structured, making it ideal for Power BI analysis of revenue trends, customer behavior, product performance, and discount impact.
+The dataset contains 110 retail sales records across 11 fields, covering transactions by city, customer type, and product category. It is clean and structured, making it ideal for Python analysis of revenue trends, customer behavior, product performance, and discount impact.
 
 ## Executive Summary
 NovaRetail Ltd.’s sales are driven by Electronics, concentrated in Lagos and Abuja, and peak during festive months (Sept 2024 highest revenue). Returning customers dominate revenue, while top sales reps outperform peers. Focused strategies in customer loyalty, inventory allocation, and sales force optimization can unlock growth.
